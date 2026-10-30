@@ -2,13 +2,13 @@
 
 This repository includes these python list programs:-
 
-1. Find Largest Element
-2. Find Second Largest Element
-3. Remove Duplicates
-4. Reverse List
-5. Check Sorted List
-6. Missing Number
-7. Move Zeros to End
-8. Frequency Count
-9. Common Elements
-10. Pair Sum
+1. find_largest
+2. find_second_largest
+3. remove_duplicates
+4. reverse_list
+5. check_sorted_list
+6. find_missing_number
+7. move_zeros_to_end
+8. frequency_count
+9. find_common_elements
+10. pair_with_given_sum
