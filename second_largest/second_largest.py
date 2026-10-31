@@ -1,8 +1,8 @@
-nums = [10, 20, 40, 30, 50]
+nums = [10, 5, 10]
+# nums = [10, 20, 40, 30, 50]
 
 # Initialize two variables with negative infinity
-# first = second = float('-inf')
-first = second = nums[0]
+first = second = float('-inf')
 
 for num in nums:
     if num > first:
